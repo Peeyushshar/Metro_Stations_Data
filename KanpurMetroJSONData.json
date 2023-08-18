@@ -1,0 +1,3094 @@
+[ [
+  "IIT Kanpur",
+  "Geeta Nagar",
+  "Gurudev Chauraha",
+  "IIT Kanpur",
+  "Kalyanpur",
+  "LLR Hospital",
+  "Motijheel",
+  "Rawatpur",
+  "SPM Hospital",
+  "Vishwavidyalaya"
+],
+  {
+    "stationNames": {
+      "source": "IIT Kanpur",
+      "destination": "Geeta Nagar"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:9:5 hh:mm:ss",
+      "Total Distance ": "⛗ 5 KM",
+      "Total Stops ": "◉ 5 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "IIT Kanpur",
+      "destination": "kalyanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "IIT Kanpur",
+      "destination": "LLR Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:12:43 hh:mm:ss",
+      "Total Distance ": "⛗ 7 KM",
+      "Total Stops ": "◉ 7 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "IIT Kanpur",
+      "destination": "Motijheel"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:14:32 hh:mm:ss",
+      "Total Distance ": "⛗ 8 KM",
+      "Total Stops ": "◉ 8 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "IIT Kanpur",
+      "destination": "Rawatpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:10:54 hh:mm:ss",
+      "Total Distance ": "⛗ 6 KM",
+      "Total Stops ": "◉ 6 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "IIT Kanpur",
+      "destination": "SPM Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "IIT Kanpur",
+      "destination": "Vishwavidyalaya"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:3:38 hh:mm:ss",
+      "Total Distance ": "⛗ 2 KM",
+      "Total Stops ": "◉ 3 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Geeta Nagar",
+      "destination": "IIT Kanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:06 AM",
+      "Last Metro ": "⏱ 10:06 PM",
+      "Travel Time ": "⏱ 0:9:5 hh:mm:ss",
+      "Total Distance ": "⛗ 5 KM",
+      "Total Stops ": "◉ 5 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Geeta Nagar",
+      "destination": "Gurudev Chauraha"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:06 AM",
+      "Last Metro ": "⏱ 10:06 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Geeta Nagar",
+      "destination": "kalyanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:06 AM",
+      "Last Metro ": "⏱ 10:06 PM",
+      "Travel Time ": "⏱ 0:7:16 hh:mm:ss",
+      "Total Distance ": "⛗ 4 KM",
+      "Total Stops ": "◉ 4 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Geeta Nagar",
+      "destination": "LLR Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:10 AM",
+      "Last Metro ": "⏱ 10:10 PM",
+      "Travel Time ": "⏱ 0:3:38 hh:mm:ss",
+      "Total Distance ": "⛗ 2 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Geeta Nagar",
+      "destination": "Motijheel"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:10 AM",
+      "Last Metro ": "⏱ 10:10 PM",
+      "Travel Time ": "⏱ 0:5:27 hh:mm:ss",
+      "Total Distance ": "⛗ 3 KM",
+      "Total Stops ": "◉ 3 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Geeta Nagar",
+      "destination": "Rawatpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:10 AM",
+      "Last Metro ": "⏱ 10:10 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Geeta Nagar",
+      "destination": "SPM Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:06 AM",
+      "Last Metro ": "⏱ 10:06 PM",
+      "Travel Time ": "⏱ 0:7:16 hh:mm:ss",
+      "Total Distance ": "⛗ 4 KM",
+      "Total Stops ": "◉ 3 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Geeta Nagar",
+      "destination": "Vishwavidyalaya"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:06 AM",
+      "Last Metro ": "⏱ 10:06 PM",
+      "Travel Time ": "⏱ 0:5:27 hh:mm:ss",
+      "Total Distance ": "⛗ 3 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Gurudev Chauraha",
+      "destination": "IIT Kanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:08 AM",
+      "Last Metro ": "⏱ 10:08 PM",
+      "Travel Time ": "⏱ 0:7:16 hh:mm:ss",
+      "Total Distance ": "⛗ 4 KM",
+      "Total Stops ": "◉ 4 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Gurudev Chauraha",
+      "destination": "Geeta Nagar"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:08 AM",
+      "Last Metro ": "⏱ 10:08 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Gurudev Chauraha",
+      "destination": "Motijheel"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:08 AM",
+      "Last Metro ": "⏱ 10:08 PM",
+      "Travel Time ": "⏱ 0:7:16 hh:mm:ss",
+      "Total Distance ": "⛗ 4 KM",
+      "Total Stops ": "◉ 4 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Gurudev Chauraha",
+      "destination": "Rawatpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:08 AM",
+      "Last Metro ": "⏱ 10:08 PM",
+      "Travel Time ": "⏱ 0:3:38 hh:mm:ss",
+      "Total Distance ": "⛗ 2 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Gurudev Chauraha",
+      "destination": "SPM Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:08 AM",
+      "Last Metro ": "⏱ 10:08 PM",
+      "Travel Time ": "⏱ 0:5:27 hh:mm:ss",
+      "Total Distance ": "⛗ 3 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Gurudev Chauraha",
+      "destination": "LLR Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:08 AM",
+      "Last Metro ": "⏱ 10:08 PM",
+      "Travel Time ": "⏱ 0:5:27 hh:mm:ss",
+      "Total Distance ": "⛗ 3 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Gurudev Chauraha",
+      "destination": "Vishwavidyalaya"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:08 AM",
+      "Last Metro ": "⏱ 10:08 PM",
+      "Travel Time ": "⏱ 0:3:38 hh:mm:ss",
+      "Total Distance ": "⛗ 2 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "kalyanpur",
+      "destination": "IIT Kanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:14 AM",
+      "Last Metro ": "⏱ 10:14 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "kalyanpur",
+      "destination": "Geeta Nagar"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:02 AM",
+      "Last Metro ": "⏱ 10:02 PM",
+      "Travel Time ": "⏱ 0:7:16 hh:mm:ss",
+      "Total Distance ": "⛗ 4 KM",
+      "Total Stops ": "◉ 4 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "kalyanpur",
+      "destination": "Gurudev Chauraha"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:02 AM",
+      "Last Metro ": "⏱ 10:02 PM",
+      "Travel Time ": "⏱ 0:5:27 hh:mm:ss",
+      "Total Distance ": "⛗ 3 KM",
+      "Total Stops ": "◉ 3 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "kalyanpur",
+      "destination": "LLR Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:02 AM",
+      "Last Metro ": "⏱ 10:02 PM",
+      "Travel Time ": "⏱ 0:10:54 hh:mm:ss",
+      "Total Distance ": "⛗ 6 KM",
+      "Total Stops ": "◉ 6 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "kalyanpur",
+      "destination": "Motijheel"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:02 AM",
+      "Last Metro ": "⏱ 10:02 PM",
+      "Travel Time ": "⏱ 0:12:43 hh:mm:ss",
+      "Total Distance ": "⛗ 7 KM",
+      "Total Stops ": "◉ 7 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "kalyanpur",
+      "destination": "Rawatpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:02 AM",
+      "Last Metro ": "⏱ 10:02 PM",
+      "Travel Time ": "⏱ 0:9:5 hh:mm:ss",
+      "Total Distance ": "⛗ 5 KM",
+      "Total Stops ": "◉ 5 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "kalyanpur",
+      "destination": "SPM Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:02 AM",
+      "Last Metro ": "⏱ 10:02 PM",
+      "Travel Time ": "⏱ 0:0:0 hh:mm:ss",
+      "Total Distance ": "⛗ 0 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "kalyanpur",
+      "destination": "Vishwavidyalaya"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:02 AM",
+      "Last Metro ": "⏱ 10:02 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "LLR Hospital",
+      "destination": "IIT Kanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:02 AM",
+      "Last Metro ": "⏱ 10:02 PM",
+      "Travel Time ": "⏱ 0:12:43 hh:mm:ss",
+      "Total Distance ": "⛗ 7 KM",
+      "Total Stops ": "◉ 7 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "LLR Hospital",
+      "destination": "Geeta Nagar"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:02 AM",
+      "Last Metro ": "⏱ 10:02 PM",
+      "Travel Time ": "⏱ 0:3:38 hh:mm:ss",
+      "Total Distance ": "⛗ 2 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "LLR Hospital",
+      "destination": "Gurudev Chauraha"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:02 AM",
+      "Last Metro ": "⏱ 10:02 PM",
+      "Travel Time ": "⏱ 0:5:27 hh:mm:ss",
+      "Total Distance ": "⛗ 3 KM",
+      "Total Stops ": "◉ 3 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "LLR Hospital",
+      "destination": "kalyanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:02 AM",
+      "Last Metro ": "⏱ 10:02 PM",
+      "Travel Time ": "⏱ 0:10:54 hh:mm:ss",
+      "Total Distance ": "⛗ 6 KM",
+      "Total Stops ": "◉ 6 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "LLR Hospital",
+      "destination": "Motijheel"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:14 AM",
+      "Last Metro ": "⏱ 10:14 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "LLR Hospital",
+      "destination": "Rawatpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:02 AM",
+      "Last Metro ": "⏱ 10:02 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "LLR Hospital",
+      "destination": "SPM Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:02 AM",
+      "Last Metro ": "⏱ 10:02 PM",
+      "Travel Time ": "⏱ 0:10:54 hh:mm:ss",
+      "Total Distance ": "⛗ 6 KM",
+      "Total Stops ": "◉ 5 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "LLR Hospital",
+      "destination": "Vishwavidyalaya"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:02 AM",
+      "Last Metro ": "⏱ 10:02 PM",
+      "Travel Time ": "⏱ 0:9:5 hh:mm:ss",
+      "Total Distance ": "⛗ 5 KM",
+      "Total Stops ": "◉ 4 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Motijheel",
+      "destination": "IIT Kanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:14:32 hh:mm:ss",
+      "Total Distance ": "⛗ 8 KM",
+      "Total Stops ": "◉ 8 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Motijheel",
+      "destination": "Geeta Nagar"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:5:27 hh:mm:ss",
+      "Total Distance ": "⛗ 3 KM",
+      "Total Stops ": "◉ 3 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Motijheel",
+      "destination": "Gurudev Chauraha"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:7:16 hh:mm:ss",
+      "Total Distance ": "⛗ 4 KM",
+      "Total Stops ": "◉ 4 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Motijheel",
+      "destination": "kalyanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:12:43 hh:mm:ss",
+      "Total Distance ": "⛗ 7 KM",
+      "Total Stops ": "◉ 7 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Motijheel",
+      "destination": "LLR Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Motijheel",
+      "destination": "Rawatpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:3:38 hh:mm:ss",
+      "Total Distance ": "⛗ 2 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Motijheel",
+      "destination": "SPM Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:12:43 hh:mm:ss",
+      "Total Distance ": "⛗ 7 KM",
+      "Total Stops ": "◉ 6 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Motijheel",
+      "destination": "Vishwavidyalaya"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:10:54 hh:mm:ss",
+      "Total Distance ": "⛗ 6 KM",
+      "Total Stops ": "◉ 5 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Rawatpur",
+      "destination": "IIT Kanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:04 AM",
+      "Last Metro ": "⏱ 10:04 PM",
+      "Travel Time ": "⏱ 0:10:54 hh:mm:ss",
+      "Total Distance ": "⛗ 6 KM",
+      "Total Stops ": "◉ 6 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Rawatpur",
+      "destination": "Geeta Nagar"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:04 AM",
+      "Last Metro ": "⏱ 10:04 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Rawatpur",
+      "destination": "Gurudev Chauraha"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:04 AM",
+      "Last Metro ": "⏱ 10:04 PM",
+      "Travel Time ": "⏱ 0:3:38 hh:mm:ss",
+      "Total Distance ": "⛗ 2 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Rawatpur",
+      "destination": "kalyanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:04 AM",
+      "Last Metro ": "⏱ 10:04 PM",
+      "Travel Time ": "⏱ 0:9:5 hh:mm:ss",
+      "Total Distance ": "⛗ 5 KM",
+      "Total Stops ": "◉ 5 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Rawatpur",
+      "destination": "LLR Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:12 AM",
+      "Last Metro ": "⏱ 10:12 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Rawatpur",
+      "destination": "Motijheel"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:12 AM",
+      "Last Metro ": "⏱ 10:12 PM",
+      "Travel Time ": "⏱ 0:3:38 hh:mm:ss",
+      "Total Distance ": "⛗ 2 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Rawatpur",
+      "destination": "SPM Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:04 AM",
+      "Last Metro ": "⏱ 10:04 PM",
+      "Travel Time ": "⏱ 0:9:5 hh:mm:ss",
+      "Total Distance ": "⛗ 5 KM",
+      "Total Stops ": "◉ 4 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Rawatpur",
+      "destination": "Vishwavidyalaya"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:04 AM",
+      "Last Metro ": "⏱ 10:04 PM",
+      "Travel Time ": "⏱ 0:7:16 hh:mm:ss",
+      "Total Distance ": "⛗ 4 KM",
+      "Total Stops ": "◉ 3 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "SPM Hospital",
+      "destination": "IIT Kanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:12 AM",
+      "Last Metro ": "⏱ 10:12 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "SPM Hospital",
+      "destination": "Geeta Nagar"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:04 AM",
+      "Last Metro ": "⏱ 10:04 PM",
+      "Travel Time ": "⏱ 0:7:16 hh:mm:ss",
+      "Total Distance ": "⛗ 4 KM",
+      "Total Stops ": "◉ 3 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "SPM Hospital",
+      "destination": "Gurudev Chauraha"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:04 AM",
+      "Last Metro ": "⏱ 10:04 PM",
+      "Travel Time ": "⏱ 0:5:27 hh:mm:ss",
+      "Total Distance ": "⛗ 3 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "SPM Hospital",
+      "destination": "kalyanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:12 AM",
+      "Last Metro ": "⏱ 10:12 PM",
+      "Travel Time ": "⏱ 0:0:0 hh:mm:ss",
+      "Total Distance ": "⛗ 0 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "SPM Hospital",
+      "destination": "LLR Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:04 AM",
+      "Last Metro ": "⏱ 10:04 PM",
+      "Travel Time ": "⏱ 0:10:54 hh:mm:ss",
+      "Total Distance ": "⛗ 6 KM",
+      "Total Stops ": "◉ 5 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "SPM Hospital",
+      "destination": "Motijheel"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:04 AM",
+      "Last Metro ": "⏱ 10:04 PM",
+      "Travel Time ": "⏱ 0:12:43 hh:mm:ss",
+      "Total Distance ": "⛗ 7 KM",
+      "Total Stops ": "◉ 6 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "SPM Hospital",
+      "destination": "Rawatpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:04 AM",
+      "Last Metro ": "⏱ 10:04 PM",
+      "Travel Time ": "⏱ 0:9:5 hh:mm:ss",
+      "Total Distance ": "⛗ 5 KM",
+      "Total Stops ": "◉ 4 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "SPM Hospital",
+      "destination": "Vishwavidyalaya"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:04 AM",
+      "Last Metro ": "⏱ 10:04 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Vishwavidyalaya",
+      "destination": "IIT Kanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:10 AM",
+      "Last Metro ": "⏱ 10:10 PM",
+      "Travel Time ": "⏱ 0:3:38 hh:mm:ss",
+      "Total Distance ": "⛗ 2 KM",
+      "Total Stops ": "◉ 3 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Vishwavidyalaya",
+      "destination": "Geeta Nagar"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:06 AM",
+      "Last Metro ": "⏱ 10:06 PM",
+      "Travel Time ": "⏱ 0:5:27 hh:mm:ss",
+      "Total Distance ": "⛗ 3 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Vishwavidyalaya",
+      "destination": "Gurudev Chauraha"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:06 AM",
+      "Last Metro ": "⏱ 10:06 PM",
+      "Travel Time ": "⏱ 0:3:38 hh:mm:ss",
+      "Total Distance ": "⛗ 2 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Vishwavidyalaya",
+      "destination": "kalyanpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:10 AM",
+      "Last Metro ": "⏱ 10:10 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 2 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Vishwavidyalaya",
+      "destination": "LLR Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:06 AM",
+      "Last Metro ": "⏱ 10:06 PM",
+      "Travel Time ": "⏱ 0:9:5 hh:mm:ss",
+      "Total Distance ": "⛗ 5 KM",
+      "Total Stops ": "◉ 4 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Vishwavidyalaya",
+      "destination": "Motijheel"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:06 AM",
+      "Last Metro ": "⏱ 10:06 PM",
+      "Travel Time ": "⏱ 0:10:54 hh:mm:ss",
+      "Total Distance ": "⛗ 6 KM",
+      "Total Stops ": "◉ 5 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Vishwavidyalaya",
+      "destination": "Rawatpur"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:06 AM",
+      "Last Metro ": "⏱ 10:06 PM",
+      "Travel Time ": "⏱ 0:7:16 hh:mm:ss",
+      "Total Distance ": "⛗ 4 KM",
+      "Total Stops ": "◉ 3 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Vishwavidyalaya",
+      "destination": "SPM Hospital"
+    },
+    "requiredData": {
+      "First Metro ": "⏱ 06:10 AM",
+      "Last Metro ": "⏱ 10:10 PM",
+      "Travel Time ": "⏱ 0:1:49 hh:mm:ss",
+      "Total Distance ": "⛗ 1 KM",
+      "Total Stops ": "◉ 1 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  }
+]
+  
