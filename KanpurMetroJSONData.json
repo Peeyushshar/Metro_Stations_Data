@@ -15,6 +15,16 @@
       "source": "IIT Kanpur",
       "destination": "Geeta Nagar"
     },
+    "stationRoute": [
+      "IIT Kanpur to Geeta Nagar Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  IIT Kanpur↓",
+      "◉  Kalyanpur↓",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -57,8 +67,67 @@
   {
     "stationNames": {
       "source": "IIT Kanpur",
+      "destination": "Gurudev Chauraha"
+    },
+    "stationRoute": [
+      "IIT Kanpur to Gurudev Chauraha Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  IIT Kanpur↓",
+      "◉  Kalyanpur↓",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓"
+    ],
+    "requiredData": {
+      "First Metro ": "⏱ 06:00 AM",
+      "Last Metro ": "⏱ 10:00 PM",
+      "Travel Time ": "⏱ 0:7:16 hh:mm:ss",
+      "Total Distance ": "⛗ 4 KM",
+      "Total Stops ": "◉ 4 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "IIT Kanpur",
       "destination": "kalyanpur"
     },
+    "stationRoute": [
+      "IIT Kanpur to Kalyanpur Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  IIT Kanpur↓",
+      "◉  Kalyanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -103,6 +172,18 @@
       "source": "IIT Kanpur",
       "destination": "LLR Hospital"
     },
+    "stationRoute": [
+      "IIT Kanpur to LLR Hospital Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  IIT Kanpur↓",
+      "◉  Kalyanpur↓",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓",
+      "◉  LLR Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -147,6 +228,19 @@
       "source": "IIT Kanpur",
       "destination": "Motijheel"
     },
+    "stationRoute": [
+      "IIT Kanpur to Motijheel Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  IIT Kanpur↓",
+      "◉  Kalyanpur↓",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓",
+      "◉  LLR Hospital↓",
+      "◉  Motijheel↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -191,6 +285,17 @@
       "source": "IIT Kanpur",
       "destination": "Rawatpur"
     },
+    "stationRoute": [
+      "IIT Kanpur to Rawatpur Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  IIT Kanpur↓",
+      "◉  Kalyanpur↓",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -235,6 +340,13 @@
       "source": "IIT Kanpur",
       "destination": "SPM Hospital"
     },
+    "stationRoute": [
+      "IIT Kanpur to SPM Hospital Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  IIT Kanpur↓",
+      "◉  Kalyanpur↓",
+      "◉  SPM Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -279,6 +391,14 @@
       "source": "IIT Kanpur",
       "destination": "Vishwavidyalaya"
     },
+    "stationRoute": [
+      "IIT Kanpur to Vishwavidyalaya Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  IIT Kanpur↓",
+      "◉  Kalyanpur↓",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -323,6 +443,16 @@
       "source": "Geeta Nagar",
       "destination": "IIT Kanpur"
     },
+    "stationRoute": [
+      "Geeta Nagar to IIT Kanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓",
+      "◉  Kalyanpur↓",
+      "◉  IIT Kanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:06 AM",
       "Last Metro ": "⏱ 10:06 PM",
@@ -367,6 +497,12 @@
       "source": "Geeta Nagar",
       "destination": "Gurudev Chauraha"
     },
+    "stationRoute": [
+      "Geeta Nagar to Gurudev Chauraha Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:06 AM",
       "Last Metro ": "⏱ 10:06 PM",
@@ -411,6 +547,15 @@
       "source": "Geeta Nagar",
       "destination": "kalyanpur"
     },
+    "stationRoute": [
+      "Geeta Nagar to Kalyanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓",
+      "◉  Kalyanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:06 AM",
       "Last Metro ": "⏱ 10:06 PM",
@@ -455,6 +600,13 @@
       "source": "Geeta Nagar",
       "destination": "LLR Hospital"
     },
+    "stationRoute": [
+      "Geeta Nagar to LLR Hospital Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓",
+      "◉  LLR Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:10 AM",
       "Last Metro ": "⏱ 10:10 PM",
@@ -499,6 +651,14 @@
       "source": "Geeta Nagar",
       "destination": "Motijheel"
     },
+    "stationRoute": [
+      "Geeta Nagar to Motijheel Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓",
+      "◉  LLR Hospital↓",
+      "◉  Motijheel↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:10 AM",
       "Last Metro ": "⏱ 10:10 PM",
@@ -543,6 +703,12 @@
       "source": "Geeta Nagar",
       "destination": "Rawatpur"
     },
+    "stationRoute": [
+      "Geeta Nagar to Rawatpur Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:10 AM",
       "Last Metro ": "⏱ 10:10 PM",
@@ -587,6 +753,14 @@
       "source": "Geeta Nagar",
       "destination": "SPM Hospital"
     },
+    "stationRoute": [
+      "Geeta Nagar to SPM Hospital Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:06 AM",
       "Last Metro ": "⏱ 10:06 PM",
@@ -631,6 +805,13 @@
       "source": "Geeta Nagar",
       "destination": "Vishwavidyalaya"
     },
+    "stationRoute": [
+      "Geeta Nagar to Vishwavidyalaya Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:06 AM",
       "Last Metro ": "⏱ 10:06 PM",
@@ -675,6 +856,15 @@
       "source": "Gurudev Chauraha",
       "destination": "IIT Kanpur"
     },
+    "stationRoute": [
+      "Gurudev Chauraha to IIT Kanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓",
+      "◉  Kalyanpur↓",
+      "◉  IIT Kanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:08 AM",
       "Last Metro ": "⏱ 10:08 PM",
@@ -719,6 +909,12 @@
       "source": "Gurudev Chauraha",
       "destination": "Geeta Nagar"
     },
+    "stationRoute": [
+      "Gurudev Chauraha to Geeta Nagar Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:08 AM",
       "Last Metro ": "⏱ 10:08 PM",
@@ -761,8 +957,69 @@
   {
     "stationNames": {
       "source": "Gurudev Chauraha",
+      "destination": "kalyanpur"
+    },
+    "stationRoute": [
+      "Gurudev Chauraha to Kalyanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓",
+      "◉  Kalyanpur↓"
+    ],
+    "requiredData": {
+      "First Metro ": "⏱ 06:08 AM",
+      "Last Metro ": "⏱ 10:08 PM",
+      "Travel Time ": "⏱ 0:5:27 hh:mm:ss",
+      "Total Distance ": "⛗ 3 KM",
+      "Total Stops ": "◉ 3 Stations",
+      "Interchange ": "☵ No Change",
+      "Token Fare ": "₹ -",
+      "Smart Card Fare ": "₹ -",
+      "Discounted Fare ": "₹ -"
+    },
+    "sourceData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No",
+      "Contact No.": ""
+    },
+    "destinationData": {
+      "Metro Parking": "Yes Available",
+      "Feeder Bus": "Not Available",
+      "Station Layout": "Elevated Station",
+      "Platform Type": "Side Platform",
+      "Located In": "Kanpur Region",
+      "ATMs": "No"
+    },
+    "entryGates": {
+      "Entry Point": "Entry From",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    },
+    "exitGates": {
+      "Exit Point": "Exit For",
+      "Gate No. 1": "Available towards Downline",
+      "Gate No. 2": "Available towards Upline"
+    }
+  },
+  {
+    "stationNames": {
+      "source": "Gurudev Chauraha",
       "destination": "Motijheel"
     },
+    "stationRoute": [
+      "Gurudev Chauraha to Motijheel Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓",
+      "◉  LLR Hospital↓",
+      "◉  Motijheel↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:08 AM",
       "Last Metro ": "⏱ 10:08 PM",
@@ -807,6 +1064,13 @@
       "source": "Gurudev Chauraha",
       "destination": "Rawatpur"
     },
+    "stationRoute": [
+      "Gurudev Chauraha to Rawatpur Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:08 AM",
       "Last Metro ": "⏱ 10:08 PM",
@@ -851,6 +1115,13 @@
       "source": "Gurudev Chauraha",
       "destination": "SPM Hospital"
     },
+    "stationRoute": [
+      "Gurudev Chauraha to SPM Hospital Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:08 AM",
       "Last Metro ": "⏱ 10:08 PM",
@@ -895,6 +1166,14 @@
       "source": "Gurudev Chauraha",
       "destination": "LLR Hospital"
     },
+    "stationRoute": [
+      "Gurudev Chauraha to LLR Hospital Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓",
+      "◉  LLR Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:08 AM",
       "Last Metro ": "⏱ 10:08 PM",
@@ -939,6 +1218,12 @@
       "source": "Gurudev Chauraha",
       "destination": "Vishwavidyalaya"
     },
+    "stationRoute": [
+      "Gurudev Chauraha to Vishwavidyalaya Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:08 AM",
       "Last Metro ": "⏱ 10:08 PM",
@@ -983,6 +1268,12 @@
       "source": "kalyanpur",
       "destination": "IIT Kanpur"
     },
+    "stationRoute": [
+      "Kalyanpur to IIT Kanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Kalyanpur↓",
+      "◉  IIT Kanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:14 AM",
       "Last Metro ": "⏱ 10:14 PM",
@@ -1027,6 +1318,15 @@
       "source": "kalyanpur",
       "destination": "Geeta Nagar"
     },
+    "stationRoute": [
+      "Kalyanpur to Geeta Nagar Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Kalyanpur↓",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:02 AM",
       "Last Metro ": "⏱ 10:02 PM",
@@ -1071,6 +1371,14 @@
       "source": "kalyanpur",
       "destination": "Gurudev Chauraha"
     },
+    "stationRoute": [
+      "Kalyanpur to Gurudev Chauraha Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Kalyanpur↓",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:02 AM",
       "Last Metro ": "⏱ 10:02 PM",
@@ -1115,6 +1423,17 @@
       "source": "kalyanpur",
       "destination": "LLR Hospital"
     },
+    "stationRoute": [
+      "Kalyanpur to LLR Hospital Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Kalyanpur↓",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓",
+      "◉  LLR Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:02 AM",
       "Last Metro ": "⏱ 10:02 PM",
@@ -1159,6 +1478,18 @@
       "source": "kalyanpur",
       "destination": "Motijheel"
     },
+    "stationRoute": [
+      "Kalyanpur to Motijheel Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Kalyanpur↓",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓",
+      "◉  LLR Hospital↓",
+      "◉  Motijheel↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:02 AM",
       "Last Metro ": "⏱ 10:02 PM",
@@ -1203,6 +1534,16 @@
       "source": "kalyanpur",
       "destination": "Rawatpur"
     },
+    "stationRoute": [
+      "Kalyanpur to Rawatpur Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Kalyanpur↓",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:02 AM",
       "Last Metro ": "⏱ 10:02 PM",
@@ -1247,6 +1588,12 @@
       "source": "kalyanpur",
       "destination": "SPM Hospital"
     },
+    "stationRoute": [
+      "Kalyanpur to SPM Hospital Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Kalyanpur↓",
+      "◉  SPM Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:02 AM",
       "Last Metro ": "⏱ 10:02 PM",
@@ -1291,6 +1638,13 @@
       "source": "kalyanpur",
       "destination": "Vishwavidyalaya"
     },
+    "stationRoute": [
+      "Kalyanpur to Vishwavidyalaya Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Kalyanpur↓",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:02 AM",
       "Last Metro ": "⏱ 10:02 PM",
@@ -1335,6 +1689,18 @@
       "source": "LLR Hospital",
       "destination": "IIT Kanpur"
     },
+    "stationRoute": [
+      "LLR Hospital to IIT Kanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  LLR Hospital↓",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓",
+      "◉  Kalyanpur↓",
+      "◉  IIT Kanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:02 AM",
       "Last Metro ": "⏱ 10:02 PM",
@@ -1379,6 +1745,13 @@
       "source": "LLR Hospital",
       "destination": "Geeta Nagar"
     },
+    "stationRoute": [
+      "LLR Hospital to Geeta Nagar Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  LLR Hospital↓",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:02 AM",
       "Last Metro ": "⏱ 10:02 PM",
@@ -1423,6 +1796,14 @@
       "source": "LLR Hospital",
       "destination": "Gurudev Chauraha"
     },
+    "stationRoute": [
+      "LLR Hospital to Gurudev Chauraha Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  LLR Hospital↓",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:02 AM",
       "Last Metro ": "⏱ 10:02 PM",
@@ -1467,6 +1848,17 @@
       "source": "LLR Hospital",
       "destination": "kalyanpur"
     },
+    "stationRoute": [
+      "LLR Hospital to Kalyanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  LLR Hospital↓",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓",
+      "◉  Kalyanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:02 AM",
       "Last Metro ": "⏱ 10:02 PM",
@@ -1511,6 +1903,12 @@
       "source": "LLR Hospital",
       "destination": "Motijheel"
     },
+    "stationRoute": [
+      "LLR Hospital to Motijheel Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  LLR Hospital↓",
+      "◉  Motijheel↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:14 AM",
       "Last Metro ": "⏱ 10:14 PM",
@@ -1555,6 +1953,12 @@
       "source": "LLR Hospital",
       "destination": "Rawatpur"
     },
+    "stationRoute": [
+      "LLR Hospital to Rawatpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  LLR Hospital↓",
+      "◉  Rawatpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:02 AM",
       "Last Metro ": "⏱ 10:02 PM",
@@ -1599,6 +2003,16 @@
       "source": "LLR Hospital",
       "destination": "SPM Hospital"
     },
+    "stationRoute": [
+      "LLR Hospital to SPM Hospital Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  LLR Hospital↓",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:02 AM",
       "Last Metro ": "⏱ 10:02 PM",
@@ -1643,6 +2057,15 @@
       "source": "LLR Hospital",
       "destination": "Vishwavidyalaya"
     },
+    "stationRoute": [
+      "LLR Hospital to Vishwavidyalaya Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  LLR Hospital↓",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:02 AM",
       "Last Metro ": "⏱ 10:02 PM",
@@ -1687,6 +2110,19 @@
       "source": "Motijheel",
       "destination": "IIT Kanpur"
     },
+    "stationRoute": [
+      "Motijheel to IIT Kanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Motijheel↓",
+      "◉  LLR Hospital↓",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓",
+      "◉  Kalyanpur↓",
+      "◉  IIT Kanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -1731,6 +2167,14 @@
       "source": "Motijheel",
       "destination": "Geeta Nagar"
     },
+    "stationRoute": [
+      "Motijheel to Geeta Nagar Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Motijheel↓",
+      "◉  LLR Hospital↓",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -1775,6 +2219,15 @@
       "source": "Motijheel",
       "destination": "Gurudev Chauraha"
     },
+    "stationRoute": [
+      "Motijheel to Gurudev Chauraha Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Motijheel↓",
+      "◉  LLR Hospital↓",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -1819,6 +2272,18 @@
       "source": "Motijheel",
       "destination": "kalyanpur"
     },
+    "stationRoute": [
+      "Motijheel to Kalyanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Motijheel↓",
+      "◉  LLR Hospital↓",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓",
+      "◉  Kalyanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -1863,6 +2328,12 @@
       "source": "Motijheel",
       "destination": "LLR Hospital"
     },
+    "stationRoute": [
+      "Motijheel to LLR Hospital Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Motijheel↓",
+      "◉  LLR Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -1907,6 +2378,13 @@
       "source": "Motijheel",
       "destination": "Rawatpur"
     },
+    "stationRoute": [
+      "Motijheel to Rawatpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Motijheel↓",
+      "◉  LLR Hospital↓",
+      "◉  Rawatpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -1951,6 +2429,17 @@
       "source": "Motijheel",
       "destination": "SPM Hospital"
     },
+    "stationRoute": [
+      "Motijheel to SPM Hospital Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Motijheel↓",
+      "◉  LLR Hospital↓",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -1995,6 +2484,16 @@
       "source": "Motijheel",
       "destination": "Vishwavidyalaya"
     },
+    "stationRoute": [
+      "Motijheel to Vishwavidyalaya Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Motijheel↓",
+      "◉  LLR Hospital↓",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:00 AM",
       "Last Metro ": "⏱ 10:00 PM",
@@ -2039,6 +2538,17 @@
       "source": "Rawatpur",
       "destination": "IIT Kanpur"
     },
+    "stationRoute": [
+      "Rawatpur to IIT Kanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓",
+      "◉  Kalyanpur↓",
+      "◉  IIT Kanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:04 AM",
       "Last Metro ": "⏱ 10:04 PM",
@@ -2083,6 +2593,12 @@
       "source": "Rawatpur",
       "destination": "Geeta Nagar"
     },
+    "stationRoute": [
+      "Rawatpur to Geeta Nagar Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:04 AM",
       "Last Metro ": "⏱ 10:04 PM",
@@ -2127,6 +2643,13 @@
       "source": "Rawatpur",
       "destination": "Gurudev Chauraha"
     },
+    "stationRoute": [
+      "Rawatpur to Gurudev Chauraha Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:04 AM",
       "Last Metro ": "⏱ 10:04 PM",
@@ -2171,6 +2694,16 @@
       "source": "Rawatpur",
       "destination": "kalyanpur"
     },
+    "stationRoute": [
+      "Rawatpur to Kalyanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓",
+      "◉  Kalyanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:04 AM",
       "Last Metro ": "⏱ 10:04 PM",
@@ -2215,6 +2748,12 @@
       "source": "Rawatpur",
       "destination": "LLR Hospital"
     },
+    "stationRoute": [
+      "Rawatpur to LLR Hospital Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Rawatpur↓",
+      "◉  LLR Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:12 AM",
       "Last Metro ": "⏱ 10:12 PM",
@@ -2259,6 +2798,13 @@
       "source": "Rawatpur",
       "destination": "Motijheel"
     },
+    "stationRoute": [
+      "Rawatpur to Motijheel Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Rawatpur↓",
+      "◉  LLR Hospital↓",
+      "◉  Motijheel↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:12 AM",
       "Last Metro ": "⏱ 10:12 PM",
@@ -2303,6 +2849,15 @@
       "source": "Rawatpur",
       "destination": "SPM Hospital"
     },
+    "stationRoute": [
+      "Rawatpur to SPM Hospital Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:04 AM",
       "Last Metro ": "⏱ 10:04 PM",
@@ -2347,6 +2902,14 @@
       "source": "Rawatpur",
       "destination": "Vishwavidyalaya"
     },
+    "stationRoute": [
+      "Rawatpur to Vishwavidyalaya Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Rawatpur↓",
+      "◉  Geeta Nagar↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Vishwavidyalaya↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:04 AM",
       "Last Metro ": "⏱ 10:04 PM",
@@ -2391,6 +2954,13 @@
       "source": "SPM Hospital",
       "destination": "IIT Kanpur"
     },
+    "stationRoute": [
+      "SPM Hospital to IIT Kanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  SPM Hospital↓",
+      "◉  Kalyanpur↓",
+      "◉  IIT Kanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:12 AM",
       "Last Metro ": "⏱ 10:12 PM",
@@ -2435,6 +3005,14 @@
       "source": "SPM Hospital",
       "destination": "Geeta Nagar"
     },
+    "stationRoute": [
+      "SPM Hospital to Geeta Nagar Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:04 AM",
       "Last Metro ": "⏱ 10:04 PM",
@@ -2479,6 +3057,13 @@
       "source": "SPM Hospital",
       "destination": "Gurudev Chauraha"
     },
+    "stationRoute": [
+      "SPM Hospital to Gurudev Chauraha Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:04 AM",
       "Last Metro ": "⏱ 10:04 PM",
@@ -2523,6 +3108,12 @@
       "source": "SPM Hospital",
       "destination": "kalyanpur"
     },
+    "stationRoute": [
+      "SPM Hospital to Kalyanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  SPM Hospital↓",
+      "◉  Kalyanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:12 AM",
       "Last Metro ": "⏱ 10:12 PM",
@@ -2567,6 +3158,16 @@
       "source": "SPM Hospital",
       "destination": "LLR Hospital"
     },
+    "stationRoute": [
+      "SPM Hospital to LLR Hospital Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓",
+      "◉  LLR Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:04 AM",
       "Last Metro ": "⏱ 10:04 PM",
@@ -2611,6 +3212,17 @@
       "source": "SPM Hospital",
       "destination": "Motijheel"
     },
+    "stationRoute": [
+      "SPM Hospital to Motijheel Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓",
+      "◉  LLR Hospital↓",
+      "◉  Motijheel↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:04 AM",
       "Last Metro ": "⏱ 10:04 PM",
@@ -2655,6 +3267,15 @@
       "source": "SPM Hospital",
       "destination": "Rawatpur"
     },
+    "stationRoute": [
+      "SPM Hospital to Rawatpur Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:04 AM",
       "Last Metro ": "⏱ 10:04 PM",
@@ -2699,6 +3320,12 @@
       "source": "SPM Hospital",
       "destination": "Vishwavidyalaya"
     },
+    "stationRoute": [
+      "SPM Hospital to Vishwavidyalaya Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  SPM Hospital↓",
+      "◉  Vishwavidyalaya↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:04 AM",
       "Last Metro ": "⏱ 10:04 PM",
@@ -2743,6 +3370,14 @@
       "source": "Vishwavidyalaya",
       "destination": "IIT Kanpur"
     },
+    "stationRoute": [
+      "Vishwavidyalaya to IIT Kanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓",
+      "◉  Kalyanpur↓",
+      "◉  IIT Kanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:10 AM",
       "Last Metro ": "⏱ 10:10 PM",
@@ -2787,6 +3422,12 @@
       "source": "Vishwavidyalaya",
       "destination": "Geeta Nagar"
     },
+    "stationRoute": [
+      "Vishwavidyalaya to Gurudev Chauraha Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:06 AM",
       "Last Metro ": "⏱ 10:06 PM",
@@ -2831,6 +3472,12 @@
       "source": "Vishwavidyalaya",
       "destination": "Gurudev Chauraha"
     },
+    "stationRoute": [
+      "Vishwavidyalaya to Gurudev Chauraha Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Vishwavidyalaya↓",
+      "◉ Gurudev Chauraha↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:06 AM",
       "Last Metro ": "⏱ 10:06 PM",
@@ -2875,6 +3522,13 @@
       "source": "Vishwavidyalaya",
       "destination": "kalyanpur"
     },
+    "stationRoute": [
+      "Vishwavidyalaya to Kalyanpur Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓",
+      "◉  Kalyanpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:10 AM",
       "Last Metro ": "⏱ 10:10 PM",
@@ -2919,6 +3573,15 @@
       "source": "Vishwavidyalaya",
       "destination": "LLR Hospital"
     },
+    "stationRoute": [
+      "Vishwavidyalaya to LLR Hospital Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓",
+      "◉  LLR Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:06 AM",
       "Last Metro ": "⏱ 10:06 PM",
@@ -2963,6 +3626,16 @@
       "source": "Vishwavidyalaya",
       "destination": "Motijheel"
     },
+    "stationRoute": [
+      "Vishwavidyalaya to Motijheel Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓",
+      "◉  LLR Hospital↓",
+      "◉  Motijheel↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:06 AM",
       "Last Metro ": "⏱ 10:06 PM",
@@ -3007,6 +3680,14 @@
       "source": "Vishwavidyalaya",
       "destination": "Rawatpur"
     },
+    "stationRoute": [
+      "Vishwavidyalaya to Rawatpur Metro Route",
+      "Towards → Naubasta → Platform 2 → Orange Line",
+      "◉  Vishwavidyalaya↓",
+      "◉  Gurudev Chauraha↓",
+      "◉  Geeta Nagar↓",
+      "◉  Rawatpur↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:06 AM",
       "Last Metro ": "⏱ 10:06 PM",
@@ -3051,6 +3732,12 @@
       "source": "Vishwavidyalaya",
       "destination": "SPM Hospital"
     },
+    "stationRoute": [
+      "Vishwavidyalaya to SPM Hospital Metro Route",
+      "Towards → IIT Kanpur → Platform 1 → Orange Line",
+      "◉  Vishwavidyalaya↓",
+      "◉  SPM Hospital↓"
+    ],
     "requiredData": {
       "First Metro ": "⏱ 06:10 AM",
       "Last Metro ": "⏱ 10:10 PM",
