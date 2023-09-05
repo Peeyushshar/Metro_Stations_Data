@@ -351,7 +351,7 @@
   {
     "stationNames": {
       "source": "PCMC Bhavan",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "PCMC Bhavan to Ideal Colony Metro Route",
@@ -409,7 +409,7 @@
   {
     "stationNames": {
       "source": "PCMC Bhavan",
-      "destination": "kasarwadi-metro-station-pune"
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "PCMC Bhavan to Kasarwadi Metro Route",
@@ -451,7 +451,7 @@
   {
     "stationNames": {
       "source": "PCMC Bhavan",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "PCMC Bhavan to Khadki Metro Route",
@@ -497,7 +497,7 @@
   {
     "stationNames": {
       "source": "PCMC Bhavan",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "PCMC Bhavan to Mangalwar Peth Metro Route",
@@ -550,7 +550,7 @@
   {
     "stationNames": {
       "source": "PCMC Bhavan",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "PCMC Bhavan to Nal Stop Metro Route",
@@ -607,7 +607,7 @@
   {
     "stationNames": {
       "source": "PCMC Bhavan",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "PCMC Bhavan to Nashik Phata Metro Route",
@@ -1317,7 +1317,7 @@
   {
     "stationNames": {
       "source": "Anand Nagar",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Anand Nagar to Ideal Colony Metro Route",
@@ -1357,7 +1357,7 @@
   {
     "stationNames": {
       "source": "Anand Nagar",
-      "destination": "kasarwadi-metro-station-pune"
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Anand Nagar to Kasarwadi Metro Route",
@@ -1413,7 +1413,7 @@
   {
     "stationNames": {
       "source": "Anand Nagar",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Anand Nagar to Khadki Metro Route",
@@ -1465,7 +1465,7 @@
   {
     "stationNames": {
       "source": "Anand Nagar",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Anand Nagar to Mangalwar Peth Metro Route",
@@ -1512,7 +1512,7 @@
   {
     "stationNames": {
       "source": "Anand Nagar",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Anand Nagar to Nal Stop Metro Route",
@@ -1553,7 +1553,7 @@
   {
     "stationNames": {
       "source": "Anand Nagar",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Anand Nagar to Nashik Phata Metro Route",
@@ -2312,7 +2312,7 @@
   {
     "stationNames": {
       "source": "Bopodi",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Bopodi to Ideal Colony Metro Route",
@@ -2364,7 +2364,7 @@
   {
     "stationNames": {
       "source": "Bopodi",
-      "destination": "kasarwadi-metro-station-pune"
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Bopodi to Kasarwadi Metro Route",
@@ -2406,7 +2406,7 @@
   {
     "stationNames": {
       "source": "Bopodi",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Bopodi to Khadki Metro Route",
@@ -2446,7 +2446,7 @@
   {
     "stationNames": {
       "source": "Bopodi",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Bopodi to Mangalwar Peth Metro Route",
@@ -2493,7 +2493,7 @@
   {
     "stationNames": {
       "source": "Bopodi",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Bopodi to Nal Stop Metro Route",
@@ -2544,7 +2544,7 @@
   {
     "stationNames": {
       "source": "Bopodi",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Bopodi to Nashik Phata Metro Route",
@@ -3254,7 +3254,7 @@
   {
     "stationNames": {
       "source": "Chhatrapati Sambhaji Udyan",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Chhatrapati Sambhaji Udyan to Ideal Colony Metro Route",
@@ -3297,7 +3297,7 @@
   {
     "stationNames": {
       "source": "Chhatrapati Sambhaji Udyan",
-      "destination": "kasarwadi-metro-station-pune"
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Chhatrapati Sambhaji Udyan to Kasarwadi Metro Route",
@@ -3348,7 +3348,7 @@
   {
     "stationNames": {
       "source": "Chhatrapati Sambhaji Udyan",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Chhatrapati Sambhaji Udyan to Khadki Metro Route",
@@ -3395,7 +3395,7 @@
   {
     "stationNames": {
       "source": "Chhatrapati Sambhaji Udyan",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Chhatrapati Sambhaji Udyan to Mangalwar Peth Metro Route",
@@ -3437,7 +3437,7 @@
   {
     "stationNames": {
       "source": "Chhatrapati Sambhaji Udyan",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Chhatrapati Sambhaji Udyan to Nal Stop Metro Route",
@@ -3479,7 +3479,7 @@
   {
     "stationNames": {
       "source": "Chhatrapati Sambhaji Udyan",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Chhatrapati Sambhaji Udyan to Nashik Phata Metro Route",
@@ -4458,7 +4458,7 @@
   {
     "stationNames": {
       "source": "Dapodi",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Dapodi to Ideal Colony Metro Route",
@@ -4511,7 +4511,7 @@
   {
     "stationNames": {
       "source": "Dapodi",
-      "destination": "kasarwadi-metro-station-pune"
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Dapodi to Kasarwadi Metro Route",
@@ -4552,7 +4552,7 @@
   {
     "stationNames": {
       "source": "Dapodi",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Dapodi to Khadki Metro Route",
@@ -4593,7 +4593,7 @@
   {
     "stationNames": {
       "source": "Dapodi",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Dapodi to Mangalwar Peth Metro Route",
@@ -4641,7 +4641,7 @@
   {
     "stationNames": {
       "source": "Dapodi",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Dapodi to Nal Stop Metro Route",
@@ -4693,7 +4693,7 @@
   {
     "stationNames": {
       "source": "Dapodi",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Dapodi to Nashik Phata Metro Route",
@@ -5405,7 +5405,7 @@
   {
     "stationNames": {
       "source": "Deccan Gymkhana",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Deccan Gymkhana to Ideal Colony Metro Route",
@@ -5447,7 +5447,7 @@
   {
     "stationNames": {
       "source": "Deccan Gymkhana",
-      "destination": "kasarwadi-metro-station-pune"
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Deccan Gymkhana to Kasarwadi Metro Route",
@@ -5499,7 +5499,7 @@
   {
     "stationNames": {
       "source": "Deccan Gymkhana",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Deccan Gymkhana to Khadki Metro Route",
@@ -5547,7 +5547,7 @@
   {
     "stationNames": {
       "source": "Deccan Gymkhana",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Deccan Gymkhana to Mangalwar Peth Metro Route",
@@ -5590,7 +5590,7 @@
   {
     "stationNames": {
       "source": "Deccan Gymkhana",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Deccan Gymkhana to Nal Stop Metro Route",
@@ -5631,7 +5631,7 @@
   {
     "stationNames": {
       "source": "Deccan Gymkhana",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Deccan Gymkhana to Nashik Phata Metro Route",
@@ -6367,7 +6367,7 @@
   {
     "stationNames": {
       "source": "Garware College",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Garware College to Ideal Colony Metro Route",
@@ -6408,7 +6408,7 @@
   {
     "stationNames": {
       "source": "Garware College",
-      "destination": "kasarwadi-metro-station-pune"
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Garware College to Kasarwadi Metro Route",
@@ -6461,7 +6461,7 @@
   {
     "stationNames": {
       "source": "Garware College",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Garware College to Khadki Metro Route",
@@ -6510,7 +6510,7 @@
   {
     "stationNames": {
       "source": "Garware College",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Garware College to Mangalwar Peth Metro Route",
@@ -6554,7 +6554,7 @@
   {
     "stationNames": {
       "source": "Garware College",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Garware College to Nal Stop Metro Route",
@@ -6594,7 +6594,7 @@
   {
     "stationNames": {
       "source": "Garware College",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Garware College to Nashik Phata Metro Route",
@@ -7045,7 +7045,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "PCMC Bhavan"
     },
     "stationRoute": [
@@ -7103,7 +7103,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "Anand Nagar"
     },
     "stationRoute": [
@@ -7143,7 +7143,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "Bopodi"
     },
     "stationRoute": [
@@ -7195,7 +7195,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "Chhatrapati Sambhaji Udyan"
     },
     "stationRoute": [
@@ -7249,7 +7249,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "Dapodi"
     },
     "stationRoute": [
@@ -7302,7 +7302,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "Deccan Gymkhana"
     },
     "stationRoute": [
@@ -7344,7 +7344,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "Garware College"
     },
     "stationRoute": [
@@ -7385,8 +7385,8 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
-      "destination": "khadki-metro-station-pune"
+      "source": "Ideal Colony",
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Ideal Colony to Khadki Metro Route",
@@ -7436,8 +7436,8 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "source": "Ideal Colony",
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Ideal Colony to Mangalwar Peth Metro Route",
@@ -7482,8 +7482,8 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
-      "destination": "nal-stop-metro-station-pune"
+      "source": "Ideal Colony",
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Ideal Colony to Nal Stop Metro Route",
@@ -7522,8 +7522,8 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
-      "destination": "nashik-phata-metro-station-pune"
+      "source": "Ideal Colony",
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Ideal Colony to Nashik Phata Metro Route",
@@ -7578,7 +7578,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "PCMC Bhavan"
     },
     "stationRoute": [
@@ -7636,7 +7636,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "Phugewadi"
     },
     "stationRoute": [
@@ -7690,7 +7690,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "PMC Bhavan"
     },
     "stationRoute": [
@@ -7734,7 +7734,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "Pune Railway Station"
     },
     "stationRoute": [
@@ -7781,7 +7781,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "Range Hills"
     },
     "stationRoute": [
@@ -7831,7 +7831,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "Ruby Hall Clinic"
     },
     "stationRoute": [
@@ -7879,7 +7879,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "Sant Tukaram Nagar"
     },
     "stationRoute": [
@@ -7947,7 +7947,7 @@
   },
   {
     "stationNames": {
-      "source": "ideal-colony-metro-station-pune",
+      "source": "Ideal Colony",
       "destination": "Vanaz"
     },
     "stationRoute": [
@@ -7988,7 +7988,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "PCMC Bhavan"
     },
     "stationRoute": [
@@ -8030,7 +8030,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "Anand Nagar"
     },
     "stationRoute": [
@@ -8086,7 +8086,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "Bopodi"
     },
     "stationRoute": [
@@ -8128,7 +8128,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "Chhatrapati Sambhaji Udyan"
     },
     "stationRoute": [
@@ -8190,7 +8190,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "Dapodi"
     },
     "stationRoute": [
@@ -8231,7 +8231,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "Deccan Gymkhana"
     },
     "stationRoute": [
@@ -8283,7 +8283,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "Garware College"
     },
     "stationRoute": [
@@ -8336,8 +8336,8 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
-      "destination": "ideal-colony-metro-station-pune"
+      "source": "Kasarwadi",
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Kasarwadi to Ideal Colony Metro Route",
@@ -8391,8 +8391,8 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
-      "destination": "khadki-metro-station-pune"
+      "source": "Kasarwadi",
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Kasarwadi to Khadki Metro Route",
@@ -8434,8 +8434,8 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "source": "Kasarwadi",
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Kasarwadi to Mangalwar Peth Metro Route",
@@ -8484,8 +8484,8 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
-      "destination": "nal-stop-metro-station-pune"
+      "source": "Kasarwadi",
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Kasarwadi to Nal Stop Metro Route",
@@ -8538,8 +8538,8 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
-      "destination": "nashik-phata-metro-station-pune"
+      "source": "Kasarwadi",
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Kasarwadi to Nashik Phata Metro Route",
@@ -8578,7 +8578,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "PCMC Bhavan"
     },
     "stationRoute": [
@@ -8620,7 +8620,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "Phugewadi"
     },
     "stationRoute": [
@@ -8660,7 +8660,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "PMC Bhavan"
     },
     "stationRoute": [
@@ -8710,7 +8710,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "Pune Railway Station"
     },
     "stationRoute": [
@@ -8761,7 +8761,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "Range Hills"
     },
     "stationRoute": [
@@ -8805,7 +8805,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "Ruby Hall Clinic"
     },
     "stationRoute": [
@@ -8857,7 +8857,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "Sant Tukaram Nagar"
     },
     "stationRoute": [
@@ -8909,7 +8909,7 @@
   },
   {
     "stationNames": {
-      "source": "kasarwadi-metro-station-pune",
+      "source": "Kasarwadi",
       "destination": "Vanaz"
     },
     "stationRoute": [
@@ -8966,7 +8966,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "PCMC Bhavan"
     },
     "stationRoute": [
@@ -9012,7 +9012,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "Anand Nagar"
     },
     "stationRoute": [
@@ -9064,7 +9064,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "Bopodi"
     },
     "stationRoute": [
@@ -9104,7 +9104,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "Chhatrapati Sambhaji Udyan"
     },
     "stationRoute": [
@@ -9162,7 +9162,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "Dapodi"
     },
     "stationRoute": [
@@ -9203,7 +9203,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "Deccan Gymkhana"
     },
     "stationRoute": [
@@ -9251,7 +9251,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "Garware College"
     },
     "stationRoute": [
@@ -9300,8 +9300,8 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
-      "destination": "ideal-colony-metro-station-pune"
+      "source": "Khadki",
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Khadki to Ideal Colony Metro Route",
@@ -9351,8 +9351,8 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
-      "destination": "kasarwadi-metro-station-pune"
+      "source": "Khadki",
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Khadki to Kasarwadi Metro Route",
@@ -9394,8 +9394,8 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "source": "Khadki",
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Khadki to Mangalwar Peth Metro Route",
@@ -9440,8 +9440,8 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
-      "destination": "nal-stop-metro-station-pune"
+      "source": "Khadki",
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Khadki to Nal Stop Metro Route",
@@ -9490,8 +9490,8 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
-      "destination": "nashik-phata-metro-station-pune"
+      "source": "Khadki",
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Khadki to Nashik Phata Metro Route",
@@ -9534,7 +9534,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "PCMC Bhavan"
     },
     "stationRoute": [
@@ -9580,7 +9580,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "Phugewadi"
     },
     "stationRoute": [
@@ -9622,7 +9622,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "PMC Bhavan"
     },
     "stationRoute": [
@@ -9668,7 +9668,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "Pune Railway Station"
     },
     "stationRoute": [
@@ -9715,7 +9715,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "Range Hills"
     },
     "stationRoute": [
@@ -9755,7 +9755,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "Ruby Hall Clinic"
     },
     "stationRoute": [
@@ -9803,7 +9803,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "Sant Tukaram Nagar"
     },
     "stationRoute": [
@@ -9859,7 +9859,7 @@
   },
   {
     "stationNames": {
-      "source": "khadki-metro-station-pune",
+      "source": "Khadki",
       "destination": "Vanaz"
     },
     "stationRoute": [
@@ -9912,7 +9912,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "PCMC Bhavan"
     },
     "stationRoute": [
@@ -9965,7 +9965,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "Anand Nagar"
     },
     "stationRoute": [
@@ -10012,7 +10012,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "Bopodi"
     },
     "stationRoute": [
@@ -10059,7 +10059,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "Chhatrapati Sambhaji Udyan"
     },
     "stationRoute": [
@@ -10112,7 +10112,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "Dapodi"
     },
     "stationRoute": [
@@ -10160,7 +10160,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "Deccan Gymkhana"
     },
     "stationRoute": [
@@ -10203,7 +10203,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "Garware College"
     },
     "stationRoute": [
@@ -10247,8 +10247,8 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
-      "destination": "ideal-colony-metro-station-pune"
+      "source": "Mangalwar Peth",
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Mangalwar Peth to Ideal Colony Metro Route",
@@ -10293,8 +10293,8 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
-      "destination": "kasarwadi-metro-station-pune"
+      "source": "Mangalwar Peth",
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Mangalwar Peth to Kasarwadi Metro Route",
@@ -10343,8 +10343,8 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
-      "destination": "khadki-metro-station-pune"
+      "source": "Mangalwar Peth",
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Mangalwar Peth to Khadki Metro Route",
@@ -10389,8 +10389,8 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
-      "destination": "nal-stop-metro-station-pune"
+      "source": "Mangalwar Peth",
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Mangalwar Peth to Nal Stop Metro Route",
@@ -10434,8 +10434,8 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
-      "destination": "nashik-phata-metro-station-pune"
+      "source": "Mangalwar Peth",
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Mangalwar Peth to Nashik Phata Metro Route",
@@ -10485,7 +10485,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "PCMC Bhavan"
     },
     "stationRoute": [
@@ -10538,7 +10538,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "Phugewadi"
     },
     "stationRoute": [
@@ -10587,7 +10587,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "PMC Bhavan"
     },
     "stationRoute": [
@@ -10628,7 +10628,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "Pune Railway Station"
     },
     "stationRoute": [
@@ -10668,7 +10668,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "Range Hills"
     },
     "stationRoute": [
@@ -10713,7 +10713,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "Ruby Hall Clinic"
     },
     "stationRoute": [
@@ -10754,7 +10754,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "Sant Tukaram Nagar"
     },
     "stationRoute": [
@@ -10817,7 +10817,7 @@
   },
   {
     "stationNames": {
-      "source": "mangalwar-peth-metro-station-pune",
+      "source": "Mangalwar Peth",
       "destination": "Vanaz"
     },
     "stationRoute": [
@@ -10865,7 +10865,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "PCMC Bhavan"
     },
     "stationRoute": [
@@ -10922,7 +10922,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "Anand Nagar"
     },
     "stationRoute": [
@@ -10963,7 +10963,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "Bopodi"
     },
     "stationRoute": [
@@ -11014,7 +11014,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "Chhatrapati Sambhaji Udyan"
     },
     "stationRoute": [
@@ -11067,7 +11067,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "Dapodi"
     },
     "stationRoute": [
@@ -11119,7 +11119,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "Deccan Gymkhana"
     },
     "stationRoute": [
@@ -11160,7 +11160,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "Garware College"
     },
     "stationRoute": [
@@ -11200,8 +11200,8 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
-      "destination": "ideal-colony-metro-station-pune"
+      "source": "Nal Stop",
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Nal Stop to Ideal Colony Metro Route",
@@ -11240,8 +11240,8 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
-      "destination": "kasarwadi-metro-station-pune"
+      "source": "Nal Stop",
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Nal Stop to Kasarwadi Metro Route",
@@ -11294,8 +11294,8 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
-      "destination": "khadki-metro-station-pune"
+      "source": "Nal Stop",
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Nal Stop to Khadki Metro Route",
@@ -11344,8 +11344,8 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "source": "Nal Stop",
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Nal Stop to Mangalwar Peth Metro Route",
@@ -11389,8 +11389,8 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
-      "destination": "nashik-phata-metro-station-pune"
+      "source": "Nal Stop",
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Nal Stop to Nashik Phata Metro Route",
@@ -11444,7 +11444,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "PCMC Bhavan"
     },
     "stationRoute": [
@@ -11501,7 +11501,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "Phugewadi"
     },
     "stationRoute": [
@@ -11554,7 +11554,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "PMC Bhavan"
     },
     "stationRoute": [
@@ -11597,7 +11597,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "Pune Railway Station"
     },
     "stationRoute": [
@@ -11643,7 +11643,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "Range Hills"
     },
     "stationRoute": [
@@ -11692,7 +11692,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "Ruby Hall Clinic"
     },
     "stationRoute": [
@@ -11739,7 +11739,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "Sant Tukaram Nagar"
     },
     "stationRoute": [
@@ -11795,7 +11795,7 @@
   },
   {
     "stationNames": {
-      "source": "nal-stop-metro-station-pune",
+      "source": "Nal Stop",
       "destination": "Vanaz"
     },
     "stationRoute": [
@@ -11837,7 +11837,7 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
+      "source": "Nashik Phata",
       "destination": "PCMC Bhavan"
     },
     "stationRoute": [
@@ -11878,7 +11878,7 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
+      "source": "Nashik Phata",
       "destination": "Anand Nagar"
     },
     "stationRoute": [
@@ -11935,7 +11935,7 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
+      "source": "Nashik Phata",
       "destination": "Bopodi"
     },
     "stationRoute": [
@@ -11978,7 +11978,7 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
+      "source": "Nashik Phata",
       "destination": "Chhatrapati Sambhaji Udyan"
     },
     "stationRoute": [
@@ -12041,7 +12041,7 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
+      "source": "Nashik Phata",
       "destination": "Dapodi"
     },
     "stationRoute": [
@@ -12083,7 +12083,7 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
+      "source": "Nashik Phata",
       "destination": "Deccan Gymkhana"
     },
     "stationRoute": [
@@ -12136,8 +12136,8 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
-      "destination": "ideal-colony-metro-station-pune"
+      "source": "Nashik Phata",
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Nashik Phata to Ideal Colony Metro Route",
@@ -12192,8 +12192,8 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
-      "destination": "kasarwadi-metro-station-pune"
+      "source": "Nashik Phata",
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Nashik Phata to Kasarwadi Metro Route",
@@ -12232,8 +12232,8 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
-      "destination": "khadki-metro-station-pune"
+      "source": "Nashik Phata",
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Nashik Phata to Khadki Metro Route",
@@ -12276,8 +12276,8 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "source": "Nashik Phata",
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Nashik Phata to Mangalwar Peth Metro Route",
@@ -12327,8 +12327,8 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
-      "destination": "nal-stop-metro-station-pune"
+      "source": "Nashik Phata",
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Nashik Phata to Nal Stop Metro Route",
@@ -12382,7 +12382,7 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
+      "source": "Nashik Phata",
       "destination": "PCMC Bhavan"
     },
     "stationRoute": [
@@ -12423,7 +12423,7 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
+      "source": "Nashik Phata",
       "destination": "Phugewadi"
     },
     "stationRoute": [
@@ -12464,7 +12464,7 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
+      "source": "Nashik Phata",
       "destination": "PMC Bhavan"
     },
     "stationRoute": [
@@ -12515,7 +12515,7 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
+      "source": "Nashik Phata",
       "destination": "Pune Railway Station"
     },
     "stationRoute": [
@@ -12567,7 +12567,7 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
+      "source": "Nashik Phata",
       "destination": "Range Hills"
     },
     "stationRoute": [
@@ -12612,7 +12612,7 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
+      "source": "Nashik Phata",
       "destination": "Ruby Hall Clinic"
     },
     "stationRoute": [
@@ -12665,7 +12665,7 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
+      "source": "Nashik Phata",
       "destination": "Sant Tukaram Nagar"
     },
     "stationRoute": [
@@ -12716,7 +12716,7 @@
   },
   {
     "stationNames": {
-      "source": "nashik-phata-metro-station-pune",
+      "source": "Nashik Phata",
       "destination": "Vanaz"
     },
     "stationRoute": [
@@ -13110,7 +13110,7 @@
   {
     "stationNames": {
       "source": "PCMC Bhavan",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "PCMC Bhavan to Ideal Colony Metro Route",
@@ -13168,7 +13168,7 @@
   {
     "stationNames": {
       "source": "PCMC Bhavan",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "PCMC Bhavan to Khadki Metro Route",
@@ -13214,7 +13214,7 @@
   {
     "stationNames": {
       "source": "PCMC Bhavan",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "PCMC Bhavan to Mangalwar Peth Metro Route",
@@ -13267,7 +13267,7 @@
   {
     "stationNames": {
       "source": "PCMC Bhavan",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "PCMC Bhavan to Nal Stop Metro Route",
@@ -13324,7 +13324,7 @@
   {
     "stationNames": {
       "source": "PCMC Bhavan",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "PCMC Bhavan to Nashik Phata Metro Route",
@@ -14071,7 +14071,7 @@
   {
     "stationNames": {
       "source": "Phugewadi",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Phugewadi to Ideal Colony Metro Route",
@@ -14125,7 +14125,7 @@
   {
     "stationNames": {
       "source": "Phugewadi",
-      "destination": "kasarwadi-metro-station-pune"
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Phugewadi to Kasarwadi Metro Route",
@@ -14165,7 +14165,7 @@
   {
     "stationNames": {
       "source": "Phugewadi",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Phugewadi to Khadki Metro Route",
@@ -14207,7 +14207,7 @@
   {
     "stationNames": {
       "source": "Phugewadi",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Phugewadi to Mangalwar Peth Metro Route",
@@ -14256,7 +14256,7 @@
   {
     "stationNames": {
       "source": "Phugewadi",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Phugewadi to Nal Stop Metro Route",
@@ -14309,7 +14309,7 @@
   {
     "stationNames": {
       "source": "Phugewadi",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Phugewadi to Nashik Phata Metro Route",
@@ -14974,7 +14974,7 @@
   {
     "stationNames": {
       "source": "PMC Bhavan",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "PMC Bhavan to Ideal Colony Metro Route",
@@ -15018,7 +15018,7 @@
   {
     "stationNames": {
       "source": "PMC Bhavan",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "PMC Bhavan to Khadki Metro Route",
@@ -15064,7 +15064,7 @@
   {
     "stationNames": {
       "source": "PMC Bhavan",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "PMC Bhavan to Mangalwar Peth Metro Route",
@@ -15105,7 +15105,7 @@
   {
     "stationNames": {
       "source": "PMC Bhavan",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "PMC Bhavan to Nal Stop Metro Route",
@@ -15148,7 +15148,7 @@
   {
     "stationNames": {
       "source": "PMC Bhavan",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "PMC Bhavan to Nashik Phata Metro Route",
@@ -15882,7 +15882,7 @@
   {
     "stationNames": {
       "source": "Pune Railway Station",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Pune Railway Station to Ideal Colony Metro Route",
@@ -15929,7 +15929,7 @@
   {
     "stationNames": {
       "source": "Pune Railway Station",
-      "destination": "kasarwadi-metro-station-pune"
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Pune Railway Station to Kasarwadi Metro Route",
@@ -15980,7 +15980,7 @@
   {
     "stationNames": {
       "source": "Pune Railway Station",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Pune Railway Station to Khadki Metro Route",
@@ -16027,7 +16027,7 @@
   {
     "stationNames": {
       "source": "Pune Railway Station",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Pune Railway Station to Mangalwar Peth Metro Route",
@@ -16067,7 +16067,7 @@
   {
     "stationNames": {
       "source": "Pune Railway Station",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Pune Railway Station to Nal Stop Metro Route",
@@ -16113,7 +16113,7 @@
   {
     "stationNames": {
       "source": "Pune Railway Station",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Pune Railway Station to Nashik Phata Metro Route",
@@ -16843,7 +16843,7 @@
   {
     "stationNames": {
       "source": "Range Hills",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Range Hills to Ideal Colony Metro Route",
@@ -16893,7 +16893,7 @@
   {
     "stationNames": {
       "source": "Range Hills",
-      "destination": "kasarwadi-metro-station-pune"
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Range Hills to Kasarwadi Metro Route",
@@ -16937,7 +16937,7 @@
   {
     "stationNames": {
       "source": "Range Hills",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Range Hills to Khadki Metro Route",
@@ -16977,7 +16977,7 @@
   {
     "stationNames": {
       "source": "Range Hills",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Range Hills to Mangalwar Peth Metro Route",
@@ -17022,7 +17022,7 @@
   {
     "stationNames": {
       "source": "Range Hills",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Range Hills to Nal Stop Metro Route",
@@ -17071,7 +17071,7 @@
   {
     "stationNames": {
       "source": "Range Hills",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Range Hills to Nashik Phata Metro Route",
@@ -17802,7 +17802,7 @@
   {
     "stationNames": {
       "source": "Ruby Hall Clinic",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Ruby Hall Clinic to Ideal Colony Metro Route",
@@ -17850,7 +17850,7 @@
   {
     "stationNames": {
       "source": "Ruby Hall Clinic",
-      "destination": "kasarwadi-metro-station-pune"
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Ruby Hall Clinic to Kasarwadi Metro Route",
@@ -17902,7 +17902,7 @@
   {
     "stationNames": {
       "source": "Ruby Hall Clinic",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Ruby Hall Clinic to Khadki Metro Route",
@@ -17950,7 +17950,7 @@
   {
     "stationNames": {
       "source": "Ruby Hall Clinic",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Ruby Hall Clinic to Mangalwar Peth Metro Route",
@@ -17991,7 +17991,7 @@
   {
     "stationNames": {
       "source": "Ruby Hall Clinic",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Ruby Hall Clinic to Nal Stop Metro Route",
@@ -18038,7 +18038,7 @@
   {
     "stationNames": {
       "source": "Ruby Hall Clinic",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Ruby Hall Clinic to Nashik Phata Metro Route",
@@ -18800,7 +18800,7 @@
   {
     "stationNames": {
       "source": "Sant Tukaram Nagar",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Sant Tukaram Nagar to Ideal Colony Metro Route",
@@ -18857,7 +18857,7 @@
   {
     "stationNames": {
       "source": "Sant Tukaram Nagar",
-      "destination": "kasarwadi-metro-station-pune"
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Sant Tukaram Nagar to Kasarwadi Metro Route",
@@ -18898,7 +18898,7 @@
   {
     "stationNames": {
       "source": "Sant Tukaram Nagar",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Sant Tukaram Nagar to Khadki Metro Route",
@@ -18943,7 +18943,7 @@
   {
     "stationNames": {
       "source": "Sant Tukaram Nagar",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Sant Tukaram Nagar to Mangalwar Peth Metro Route",
@@ -18995,7 +18995,7 @@
   {
     "stationNames": {
       "source": "Sant Tukaram Nagar",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Sant Tukaram Nagar to Nal Stop Metro Route",
@@ -19051,7 +19051,7 @@
   {
     "stationNames": {
       "source": "Sant Tukaram Nagar",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Sant Tukaram Nagar to Nashik Phata Metro Route",
@@ -19987,7 +19987,7 @@
   {
     "stationNames": {
       "source": "Vanaz",
-      "destination": "ideal-colony-metro-station-pune"
+      "destination": "Ideal Colony"
     },
     "stationRoute": [
       "Vanaz to Ideal Colony Metro Route",
@@ -20028,7 +20028,7 @@
   {
     "stationNames": {
       "source": "Vanaz",
-      "destination": "kasarwadi-metro-station-pune"
+      "destination": "Kasarwadi"
     },
     "stationRoute": [
       "Vanaz to Kasarwadi Metro Route",
@@ -20085,7 +20085,7 @@
   {
     "stationNames": {
       "source": "Vanaz",
-      "destination": "khadki-metro-station-pune"
+      "destination": "Khadki"
     },
     "stationRoute": [
       "Vanaz to Khadki Metro Route",
@@ -20138,7 +20138,7 @@
   {
     "stationNames": {
       "source": "Vanaz",
-      "destination": "mangalwar-peth-metro-station-pune"
+      "destination": "Mangalwar Peth"
     },
     "stationRoute": [
       "Vanaz to Mangalwar Peth Metro Route",
@@ -20186,7 +20186,7 @@
   {
     "stationNames": {
       "source": "Vanaz",
-      "destination": "nal-stop-metro-station-pune"
+      "destination": "Nal Stop"
     },
     "stationRoute": [
       "Vanaz to Nal Stop Metro Route",
@@ -20228,7 +20228,7 @@
   {
     "stationNames": {
       "source": "Vanaz",
-      "destination": "nashik-phata-metro-station-pune"
+      "destination": "Nashik Phata"
     },
     "stationRoute": [
       "Vanaz to Nashik Phata Metro Route",
